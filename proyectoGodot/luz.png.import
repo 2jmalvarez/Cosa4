@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/index.png-8fc652c8f784c32c099107efbd73c772.stex"
+path="res://.import/luz.png-31ff8aec01abd6668bcbd84ec2be9abb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://export/Cosa4/index.png"
-dest_files=[ "res://.import/index.png-8fc652c8f784c32c099107efbd73c772.stex" ]
+source_file="res://luz.png"
+dest_files=[ "res://.import/luz.png-31ff8aec01abd6668bcbd84ec2be9abb.stex" ]
 
 [params]
 

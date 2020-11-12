@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/index.png-8fc652c8f784c32c099107efbd73c772.stex"
+path="res://.import/luzJueguillo.svg-8b34972f064a926dde3635e3659a2c0d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://export/Cosa4/index.png"
-dest_files=[ "res://.import/index.png-8fc652c8f784c32c099107efbd73c772.stex" ]
+source_file="res://luzJueguillo.svg"
+dest_files=[ "res://.import/luzJueguillo.svg-8b34972f064a926dde3635e3659a2c0d.stex" ]
 
 [params]
 
